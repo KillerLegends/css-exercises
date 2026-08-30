@@ -1,1 +1,20 @@
 /* Add CSS Styling */
+
+.class1 {
+  font-family: "Verdana, Dejavu Sans, sans-serif";
+  background-color: #ff7377;
+}
+
+.class1#cooler {
+  font-size: 24px;
+}
+#oneid {
+  color: rgb(54, 11, 162);
+  font-size: 36px;
+}
+#anoid {
+  background-color: hsl(120, 58%, 67%);
+  color: #000000;
+  font-size: 24px;
+  font-weight: bold;
+}
